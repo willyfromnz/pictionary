@@ -1,13 +1,13 @@
 {
   "main.css": "/pictionary/static/css/main.55cb3300.chunk.css",
-  "main.js": "/pictionary/static/js/main.5cbe82bd.chunk.js",
-  "main.js.map": "/pictionary/static/js/main.5cbe82bd.chunk.js.map",
+  "main.js": "/pictionary/static/js/main.c0a9916c.chunk.js",
+  "main.js.map": "/pictionary/static/js/main.c0a9916c.chunk.js.map",
   "static/js/1.3af36091.chunk.js": "/pictionary/static/js/1.3af36091.chunk.js",
   "static/js/1.3af36091.chunk.js.map": "/pictionary/static/js/1.3af36091.chunk.js.map",
   "runtime~main.js": "/pictionary/static/js/runtime~main.df1f96c9.js",
   "runtime~main.js.map": "/pictionary/static/js/runtime~main.df1f96c9.js.map",
   "static/css/main.55cb3300.chunk.css.map": "/pictionary/static/css/main.55cb3300.chunk.css.map",
   "index.html": "/pictionary/index.html",
-  "precache-manifest.8678c3d1dc3629a1381bf6fa06619821.js": "/pictionary/precache-manifest.8678c3d1dc3629a1381bf6fa06619821.js",
+  "precache-manifest.2adacb7bd6739def6b5ef1e8c1c88438.js": "/pictionary/precache-manifest.2adacb7bd6739def6b5ef1e8c1c88438.js",
   "service-worker.js": "/pictionary/service-worker.js"
 }
