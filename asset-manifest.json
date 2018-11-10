@@ -1,0 +1,14 @@
+{
+  "main.css": "/pictionary/static/css/main.82533b63.chunk.css",
+  "main.js": "/pictionary/static/js/main.2bbeb71a.chunk.js",
+  "main.js.map": "/pictionary/static/js/main.2bbeb71a.chunk.js.map",
+  "static/js/1.1a2fe23b.chunk.js": "/pictionary/static/js/1.1a2fe23b.chunk.js",
+  "static/js/1.1a2fe23b.chunk.js.map": "/pictionary/static/js/1.1a2fe23b.chunk.js.map",
+  "runtime~main.js": "/pictionary/static/js/runtime~main.df1f96c9.js",
+  "runtime~main.js.map": "/pictionary/static/js/runtime~main.df1f96c9.js.map",
+  "static/media/logo.svg": "/pictionary/static/media/logo.5d5d9eef.svg",
+  "static/css/main.82533b63.chunk.css.map": "/pictionary/static/css/main.82533b63.chunk.css.map",
+  "index.html": "/pictionary/index.html",
+  "precache-manifest.7cbca37ab65f4d6b04f2cc712eae4abd.js": "/pictionary/precache-manifest.7cbca37ab65f4d6b04f2cc712eae4abd.js",
+  "service-worker.js": "/pictionary/service-worker.js"
+}
