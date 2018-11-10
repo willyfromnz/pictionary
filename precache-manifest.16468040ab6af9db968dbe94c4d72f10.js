@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/pictionary/static/js/runtime~main.df1f96c9.js"
   },
   {
-    "revision": "8391dcd77b6f55770381",
-    "url": "/pictionary/static/js/main.8391dcd7.chunk.js"
+    "revision": "07d168c557b3074c4334",
+    "url": "/pictionary/static/js/main.07d168c5.chunk.js"
   },
   {
     "revision": "3af36091c18ba251ef9d",
     "url": "/pictionary/static/js/1.3af36091.chunk.js"
   },
   {
-    "revision": "8391dcd77b6f55770381",
+    "revision": "07d168c557b3074c4334",
     "url": "/pictionary/static/css/main.55cb3300.chunk.css"
   },
   {
-    "revision": "25d9ab55e0bdd035b6b66e1f569400a0",
+    "revision": "0f512531100220b9e8fbfd5eb6b6f03a",
     "url": "/pictionary/index.html"
   }
 ];
