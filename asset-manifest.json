@@ -1,13 +1,13 @@
 {
-  "main.css": "/pictionary/static/css/main.80ec53c2.chunk.css",
-  "main.js": "/pictionary/static/js/main.82ba09da.chunk.js",
-  "main.js.map": "/pictionary/static/js/main.82ba09da.chunk.js.map",
-  "static/js/1.b7a22967.chunk.js": "/pictionary/static/js/1.b7a22967.chunk.js",
-  "static/js/1.b7a22967.chunk.js.map": "/pictionary/static/js/1.b7a22967.chunk.js.map",
-  "runtime~main.js": "/pictionary/static/js/runtime~main.df1f96c9.js",
-  "runtime~main.js.map": "/pictionary/static/js/runtime~main.df1f96c9.js.map",
-  "static/css/main.80ec53c2.chunk.css.map": "/pictionary/static/css/main.80ec53c2.chunk.css.map",
-  "index.html": "/pictionary/index.html",
-  "precache-manifest.b4a31b204dbdebb44139f29fb7df177d.js": "/pictionary/precache-manifest.b4a31b204dbdebb44139f29fb7df177d.js",
-  "service-worker.js": "/pictionary/service-worker.js"
+  "main.css": "/elliotv.github.io/static/css/main.80ec53c2.chunk.css",
+  "main.js": "/elliotv.github.io/static/js/main.0693fd09.chunk.js",
+  "main.js.map": "/elliotv.github.io/static/js/main.0693fd09.chunk.js.map",
+  "static/js/1.b7a22967.chunk.js": "/elliotv.github.io/static/js/1.b7a22967.chunk.js",
+  "static/js/1.b7a22967.chunk.js.map": "/elliotv.github.io/static/js/1.b7a22967.chunk.js.map",
+  "runtime~main.js": "/elliotv.github.io/static/js/runtime~main.bb2ebf04.js",
+  "runtime~main.js.map": "/elliotv.github.io/static/js/runtime~main.bb2ebf04.js.map",
+  "static/css/main.80ec53c2.chunk.css.map": "/elliotv.github.io/static/css/main.80ec53c2.chunk.css.map",
+  "index.html": "/elliotv.github.io/index.html",
+  "precache-manifest.30b06cab2f3b20091a60f63358c1e731.js": "/elliotv.github.io/precache-manifest.30b06cab2f3b20091a60f63358c1e731.js",
+  "service-worker.js": "/elliotv.github.io/service-worker.js"
 }
